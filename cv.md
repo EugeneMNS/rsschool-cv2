@@ -5,4 +5,4 @@
 4. I don't have any skills.
 5. I have no code examples
 6. Civil engineer
-7. My English is very bed, level ~ A1 Elementary
+7. My English is very bad, level ~ A1 Elementary
